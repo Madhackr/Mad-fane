@@ -22,10 +22,10 @@ z="""
               ██║░╚═╝░██║██║░░██║██████╔╝
               ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░
    ╔═══════════════════════════════════════════════╗
-   ║       [✓] TOOL NAME : MAD-X                            ║ 
-   ║       [✓] YOUTUBE : MAD-X                              ║
-   ║       [✓] GITHUB : MAD-x                               ║
-   ║       [✓] EMAIL :madhackr001@gmail.com                 ║
+   ║       [✓] TOOL NAME : MAD-X                           ║ 
+   ║       [✓] YOUTUBE : MAD-X                             ║
+   ║       [✓] GITHUB : MAD-x                              ║
+   ║       [✓] EMAIL :madhackr001@gmail.com                ║
    ╚═══════════════════════════════════════════════╝
   
 """
@@ -35,11 +35,11 @@ cmatrix="""
 os.system("cmatrix")
 """
 print("cmatrix")
-   
-os.system("　")   
+  
+print("　")   
  print("cacafire")  
  
- os.system("　")   
+print("　")   
 print(str("Enter tools name  "))
 
 
